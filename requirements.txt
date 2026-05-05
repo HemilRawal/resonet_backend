@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+redis
+websockets
+networkx
+scikit-learn
+numpy
+joblib
+groq
+google-genai
+anthropic
+python-dotenv
+dataclasses-json
